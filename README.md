@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [iAdvize](iadvize.com)
 
-- 👨‍💻 All of my projects are available at [louanbelicaud.fr](louanbelicaud.fr)
+- 👨‍💻 All of my projects are available at [louanbelicaud.fr](https://louanbelicaud.fr)
 
 - 📫 How to reach me **louanbelicaud63+github@gmail.com**
 
