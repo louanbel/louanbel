@@ -1,6 +1,6 @@
 <h3 align="center">French Software Engineer</h3>
 
-- 🔭 I’m currently working at [iAdvize](iadvize.com)
+- 🔭 I’m currently working at [iAdvize](https://iadvize.com)
 
 - 👨‍💻 All of my projects are available at [louanbelicaud.fr](https://louanbelicaud.fr)
 
