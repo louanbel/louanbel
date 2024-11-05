@@ -1,10 +1,10 @@
 <h3 align="center">French Software Engineer</h3>
 
-- 🔭 I’m currently working at [iAdvize](https://iadvize.com)
+- 🔭 Currently working at [iAdvize](https://iadvize.com)
 
-- 👨‍💻 All of my projects are available at [louanbelicaud.fr](https://louanbelicaud.fr)
+- 👨‍💻 Most of my projects are available at [louanbelicaud.fr](https://louanbelicaud.fr)
 
-- 📫 How to reach me **louanbelicaud63+github@gmail.com**
+- 📫 How to reach me: **louanbelicaud63+github@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend: </h4>
